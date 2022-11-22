@@ -1,6 +1,6 @@
 
 
-Ruby can be installed by following the instruction from the official documentation 
+Ruby can be installed from the package manager by following the instruction from the official documentation 
 
 https://github.com/rbenv/rbenv
 
